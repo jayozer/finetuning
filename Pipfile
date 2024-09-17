@@ -8,6 +8,11 @@ openai = "*"
 pandas = "*"
 requests = "*"
 python-dotenv = "*"
+fireworks-ai = "*"
+jupyter = "*"
+pronouncing = "*"
+sentence-transformers = "*"
+transformers = "*"
 
 [dev-packages]
 ipykernel = "*"

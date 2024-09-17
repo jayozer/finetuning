@@ -1,0 +1,5 @@
+conversation: {}
+
+# The Hugging Face model name of the base model.
+base_model: meta-llama/Meta-Llama-3-8B-Instruct
+
