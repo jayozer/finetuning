@@ -1,7 +1,8 @@
 conversation: {}
 
 # The Hugging Face model name of the base model.
-base_model: meta-llama/Meta-Llama-3-8B-Instruct
+#base_model: meta-llama/Meta-Llama-3-8B-Instruct 
+base_model: llama-v3p1-8b-instruct
 
 # adjust hyperparameters
 epochs: 2

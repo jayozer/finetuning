@@ -13,6 +13,7 @@ jupyter = "*"
 pronouncing = "*"
 sentence-transformers = "*"
 transformers = "*"
+numpy = "*"
 
 [dev-packages]
 ipykernel = "*"
