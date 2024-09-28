@@ -1,0 +1,13 @@
+conversation: {}
+
+# The Hugging Face model name of the base model.
+#base_model: meta-llama/Meta-Llama-3-8B-Instruct
+#base_model: meta-llama/Llama-3.1-70B
+# base model names are here: https://fireworks.ai/models
+base_model: accounts/fireworks/models/llama-v3p1-8b-instruct
+
+# adjust hyperparameters
+epochs: 2
+lora_rank: 32
+learning_rate: 0.0002
+batch_size: 4
